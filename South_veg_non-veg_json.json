@@ -1,0 +1,852 @@
+{
+  "menuSystem": {
+    "south": {
+      "vegetarian": {
+        "weekA": {
+          "monday": {
+            "breakfast": [
+              "Boiled Egg/Oats",
+              "Boiled Chawli white [A]",
+              "red [C]",
+              "Mixed Fruit Jam",
+              "Millet Dosa [A]",
+              "Groundnut chutney [A]",
+              "Pulm [C]",
+              "Kadala curry [C]"
+            ],
+            "lunch": [
+              "Methi Chapati",
+              "Aloo soya dry",
+              "Tomato Rasam",
+              "Bhindi Sambar",
+              "Avalkai Pachadi",
+              "Curd Chilli",
+              "Gongjara Thoviyal"
+            ],
+            "snacks": [
+              "Masala corn & Lemon [A]",
+              "Sambar vada [C]"
+            ],
+            "dinner": [
+              "Plain rice",
+              "Plain Chapati",
+              "Potato Milmaker dry",
+              "Dum Aloo",
+              "Lemon Rasam",
+              "Banana Fruit",
+              "Mix Veg Pickle"
+            ]
+          },
+          "tuesday": {
+            "breakfast": [
+              "Omelette/Chocos",
+              "Green Gram Sprouts",
+              "Mango Jam",
+              "Mysore bonda (1 no)",
+              "Khichdi (Wheat) [A]",
+              "Khichdi (Rava) [C]",
+              "Coconut chutney"
+            ],
+            "lunch": [
+              "Phulka",
+              "Tomato Rice",
+              "Bhindi Fry",
+              "Mix Veg Curry",
+              "Radish Sambar",
+              "Bele Saaru",
+              "Mixed Veg Pickle",
+              "Mint Thoviyal"
+            ],
+            "snacks": [
+              "Mysore Bonda with coconut chutney [A]",
+              "Pamugulu with kara chutney[C]"
+            ],
+            "dinner": [
+              "Plain rice",
+              "Kerala Paratha",
+              "Veg Kurma",
+              "Drumstick Sambar",
+              "Seasonal Fruit",
+              "Lemon Pickle",
+              "Ragi drink"
+            ]
+          },
+          "wednesday": {
+            "breakfast": [
+              "Fried Egg/Cornflakes",
+              "Boiled Black Chana",
+              "Idly [A]/Rava Idly [C]",
+              "Vada (1 no)",
+              "Groundnut chutney",
+              "Brinjal Sambar"
+            ],
+            "lunch": [
+              "Pudina Chapati",
+              "Aloo 65",
+              "Cabbage curry",
+              "Pepper Rasam",
+              "Cucumber Pappu",
+              "Lemon Pickle",
+              "Ridge Gourd Thoviyal",
+              "Detox Water"
+            ],
+            "snacks": [
+              "Ruski[A] (4 pieces)",
+              "Pani Puri [C]"
+            ],
+            "dinner": [
+              "Plain rice",
+              "Phulka",
+              "Jeera Rice",
+              "Palak Paneer",
+              "Garlic Rasam",
+              "Carrot Halwa [A]",
+              "Beetroot Halwa [C]",
+              "Mango Pickle"
+            ]
+          },
+          "thursday": {
+            "breakfast": [
+              "Boiled egg/Oats",
+              "Boiled Peanut",
+              "Onion Uthappam[A]",
+              "Mix veg Uthappam[C]",
+              "Pongal",
+              "Coconut chutney",
+              "Drumstick Sambar"
+            ],
+            "lunch": [
+              "Phulka",
+              "Tadily Fry pakodi (type Clustered)",
+              "Beans Moong Dal[A]",
+              "Thotakura papu [C]",
+              "Kara kuzhambu",
+              "Drumstick[A]/Brinjal [C]Curry",
+              "Mixed Veg Pickle",
+              "Curd Chilli",
+              "Curry Leaf Thoviyal"
+            ],
+            "snacks": [
+              "Bhel puri[A]&[C]"
+            ],
+            "dinner": [
+              "Plain rice",
+              "Plain chapathi",
+              "Tomato soya curry",
+              "Mix veg sambar",
+              "Lemon pickle",
+              "Boiled Sweet Corn"
+            ]
+          },
+          "friday": {
+            "breakfast": [
+              "Boiled Egg/Chocos",
+              "Boiled white chana",
+              "Mango Jam",
+              "Masala Dosa",
+              "Mint chutney",
+              "Mix veg Sambar"
+            ],
+            "lunch": [
+              "Plain Chapati",
+              "Bitter Gourd fry",
+              "Gutti Vankaya Curry",
+              "Jeera Rasam",
+              "Spinach Pappu",
+              "Lemon Pickle",
+              "Gongjara Thoviyal"
+            ],
+            "snacks": [
+              "Butter salted Popcorn [A]",
+              "Banana bajji [C]"
+            ],
+            "dinner": [
+              "Plain Rice",
+              "Mixed Veg Sambar",
+              "Papaya Fruit",
+              "Mango Pickle",
+              "Chapathi",
+              "Veg kurma"
+            ]
+          },
+          "saturday": {
+            "breakfast": [
+              "Omelette/Cornflakes",
+              "Boiled green gram",
+              "Pineapple Jam",
+              "Poori",
+              "Aloo masala"
+            ],
+            "lunch": [
+              "Phulka",
+              "Masala Vada (1 no)",
+              "Spinach kootu (Semi Dry)",
+              "Ulavadharu",
+              "Pappu (Dal) Curry",
+              "Tomato chutney(not pickle)",
+              "Mint Thoviyal"
+            ],
+            "snacks": [
+              "Bread pakora with sauce [A]",
+              "Aloo Bonda with sauce - 2 pieces [C]"
+            ],
+            "dinner": [
+              "Lemon Rice[A]/Coconut rice [C]",
+              "Sambar Rice",
+              "Curd Rice",
+              "Boost Milk",
+              "Potato chips",
+              "Banana Fruit"
+            ]
+          },
+          "sunday": {
+            "breakfast": [
+              "Boiled Egg/Oats",
+              "Boiled white peas",
+              "Mix fruit jam",
+              "Rava Dosa [A]/Set dosa[C]",
+              "Pudina Chutney[A]/Coconut chutney[C]",
+              "Hindi Sambar"
+            ],
+            "lunch": [
+              "Plain Chapathi",
+              "Kuska/bagara",
+              "Ice",
+              "Kadai Paneer",
+              "Raita (No Salad)",
+              "Cut Onion",
+              "Gulab Jamun [A]",
+              "Ice Cream [C]"
+            ],
+            "snacks": [
+              "Chana chaat [A]",
+              "Crispy soya chunks [C]"
+            ],
+            "dinner": [
+              "Plain Rice",
+              "Gobi[A]/Aloo[C]",
+              "Parotta",
+              "Green Chutney",
+              "Curd",
+              "Lemon Rasam",
+              "Mix Veg Sambar",
+              "Mix fruit salad",
+              "Mix Veg Pickle"
+            ]
+          }
+        },
+        "weekB": {
+          "monday": {
+            "breakfast": [
+              "Boiled Egg/cornflakes",
+              "Pineapple Jam",
+              "Boiled peanuts",
+              "Classic Semiya upma [D]",
+              "Andhra style semiya upma [B]",
+              "Masala Vada (2 no)",
+              "Coconut Chutney"
+            ],
+            "lunch": [
+              "Methi Chapati",
+              "Chilli Bajji",
+              "Carrot beans Poriyal",
+              "garlic Rasam",
+              "Bottle gourd Sambar",
+              "Avakari Pachadi",
+              "Curd Chilli",
+              "Gongjara Thoviyal"
+            ],
+            "snacks": [
+              "Biscuit Packet [B]",
+              "Hot Fruit Cake-Masala Bhel [D]"
+            ],
+            "dinner": [
+              "Plain Rice",
+              "Phulka",
+              "Potato Green Peas Masala",
+              "Mix Veg Sambar",
+              "Sweet Pongal [B]",
+              "moong dal halwa [D]"
+            ]
+          },
+          "tuesday": {
+            "breakfast": [
+              "Omelette/Chocos",
+              "Mango Jam",
+              "Green Gram Sprouts",
+              "Pamugulu (4 no)(small size)",
+              "Vegetable Rava Upma [B]",
+              "poha [D]",
+              "Coconut chutney"
+            ],
+            "lunch": [
+              "Phulka",
+              "Tomato Rice",
+              "Bhindi Fry",
+              "Tomato Peas Curry",
+              "Lemon Rasam",
+              "Mixed Veg Pickle",
+              "Mint Thoviyal"
+            ],
+            "snacks": [
+              "Veg cutlet - 2 no [B]",
+              "Veg Roll [D]"
+            ],
+            "dinner": [
+              "Plain Rice",
+              "Chole Bhature",
+              "Tomato Rasam",
+              "Brinjal Sambar",
+              "Seasonal fruit",
+              "Lemon Pickle",
+              "Ragi drink"
+            ]
+          },
+          "wednesday": {
+            "breakfast": [
+              "Fried Egg/oats",
+              "Mix Fruit jam",
+              "Boiled Black Chana",
+              "Millet Idly [B]",
+              "Kanchipuram Idly [D]",
+              "vada (2 no)",
+              "Red chili chutney",
+              "Drumstick Sambar"
+            ],
+            "lunch": [
+              "Pudina Chapati",
+              "Gobi 65",
+              "Bottle gourd curry",
+              "Palak Pappu",
+              "Tomato Rasam",
+              "Lemon Pickle",
+              "Ridge Gourd Thoviyal",
+              "Detox water"
+            ],
+            "snacks": [
+              "Masala boiled Chana [B]",
+              "French Fries with tomato sauce [D]"
+            ],
+            "dinner": [
+              "Plain rice",
+              "Plain chapati",
+              "Jeera Rice",
+              "Masala Paneer",
+              "Bhindi Sambar",
+              "Semiya Payasam",
+              "Mix Veg Pickle"
+            ]
+          },
+          "thursday": {
+            "breakfast": [
+              "Boiled egg/cornflakes",
+              "Pineapple Jam",
+              "Boiled white channa",
+              "Plant Upma-Pesarattu",
+              "Ginger chutney",
+              "Radish Sambar"
+            ],
+            "lunch": [
+              "Phulka",
+              "Potato poriyal",
+              "Gongjara dal",
+              "Mix Veg Pickle",
+              "Pepper rasam",
+              "Curd Chilli",
+              "Curry Leaf Thoviyal"
+            ],
+            "snacks": [
+              "Veg Puff Bread Pakora [B]",
+              "Dahi vada [D]"
+            ],
+            "dinner": [
+              "Plain Rice",
+              "Plain Chapati",
+              "Potato Soya dry",
+              "Tomato Dal",
+              "Lemon Rasam",
+              "Pineapple Fruit",
+              "Lemon pickle"
+            ]
+          },
+          "friday": {
+            "breakfast": [
+              "Boiled Egg/Chocos",
+              "Pineapple Jam",
+              "Boiled Moong",
+              "Kal dosa[B]",
+              "Vada curry[B]/Adul[D]",
+              "Sambar[D]",
+              "Coconut Chutney"
+            ],
+            "lunch": [
+              "Plain Chapati",
+              "Mutter Paneer",
+              "Raw banana fry (Dry)",
+              "Tomato Rasam",
+              "Kara kuzhambu",
+              "Lemon Pickle",
+              "Gongjara Thoviyal"
+            ],
+            "snacks": [
+              "Sev puri [B]",
+              "Onion pakoda [D]"
+            ],
+            "dinner": [
+              "Plain Rice",
+              "Kal [B]",
+              "Ragi dosa [D]",
+              "Coconut Chutney",
+              "Drumstick Sambar",
+              "Papaya Fruit",
+              "Mix Veg Pickle"
+            ]
+          },
+          "saturday": {
+            "breakfast": [
+              "Boiled Egg/Chocos",
+              "Mango Jam",
+              "Boiled mixed pulses",
+              "Magg",
+              "Tomato Sauce",
+              "Tamarind pulihora [D]",
+              "Idiyappam[B]",
+              "Veg Kurma[B]"
+            ],
+            "lunch": [
+              "Phulka",
+              "Mix Cabbage Fry (Dry)",
+              "Keerrai Vada",
+              "Tomata Dal",
+              "Pepper Rasam",
+              "Avakari Pachadi",
+              "Mint Thoviyal"
+            ],
+            "snacks": [
+              "Samosa - 1 no [B]",
+              "Dahi chaat [D]"
+            ],
+            "dinner": [
+              "Vangi bath",
+              "Sambar Rice",
+              "Curd Rice",
+              "Horlicks milk",
+              "Potato Chips",
+              "Banana fruit",
+              "Mango pickle"
+            ]
+          },
+          "sunday": {
+            "breakfast": [
+              "Boiled Egg/Oats",
+              "Mixed Fruit Jam",
+              "White Chana sprouts",
+              "Millet Dosai[B]/jowar dosa[D]",
+              "Groundnut chutney",
+              "Brinjal Sambar"
+            ],
+            "lunch": [
+              "Plain Chapathi",
+              "Veg Biryani (Basmati)",
+              "Paneer Butter Masala",
+              "Raita",
+              "Cut Onion",
+              "Custard Bread [B]",
+              "Mysore Pak [D]"
+            ],
+            "snacks": [
+              "Banana Cake [B]",
+              "Biscuit Packet/Sundal [D]"
+            ],
+            "dinner": [
+              "Plain Rice",
+              "Wheat Dosa",
+              "Onion chutney",
+              "Mix veg Sambar",
+              "Tomato Rasam",
+              "Mixed fruit salad",
+              "Mix Veg Pickle"
+            ]
+          }
+        },
+        "weekC": {
+          "monday": {
+            "breakfast": [
+              "Boiled Egg/Oats",
+              "Boiled Chawli white [A]",
+              "red [C]",
+              "Mixed Fruit Jam",
+              "Millet Dosa [A]",
+              "Groundnut chutney [A]",
+              "Pulm [C]",
+              "Kadala curry [C]"
+            ],
+            "lunch": [
+              "Methi Chapati",
+              "Aloo soya dry",
+              "Tomato Rasam",
+              "Bhindi Sambar",
+              "Avalkai Pachadi",
+              "Curd Chilli",
+              "Gongjara Thoviyal"
+            ],
+            "snacks": [
+              "Masala corn & Lemon [A]",
+              "Sambar vada [C]"
+            ],
+            "dinner": [
+              "Plain rice",
+              "Plain Chapati",
+              "Potato Milmaker dry",
+              "Dum Aloo",
+              "Lemon Rasam",
+              "Banana Fruit",
+              "Mix Veg Pickle"
+            ]
+          }
+        },
+        "weekD": {
+          "monday": {
+            "breakfast": [
+              "Boiled Egg/cornflakes",
+              "Pineapple Jam",
+              "Boiled peanuts",
+              "Classic Semiya upma [D]",
+              "Andhra style semiya upma [B]",
+              "Masala Vada (2 no)",
+              "Coconut Chutney"
+            ],
+            "lunch": [
+              "Methi Chapati",
+              "Chilli Bajji",
+              "Carrot beans Poriyal",
+              "garlic Rasam",
+              "Bottle gourd Sambar",
+              "Avakari Pachadi",
+              "Curd Chilli",
+              "Gongjara Thoviyal"
+            ],
+            "snacks": [
+              "Biscuit Packet [B]",
+              "Hot Fruit Cake-Masala Bhel [D]"
+            ],
+            "dinner": [
+              "Plain Rice",
+              "Phulka",
+              "Potato Green Peas Masala",
+              "Mix Veg Sambar",
+              "Sweet Pongal [B]",
+              "moong dal halwa [D]"
+            ]
+          }
+        }
+      },
+      "nonVegetarian": {
+        "weekB": {
+          "monday": {
+            "breakfast": [
+              "Boiled Egg/cornflakes",
+              "Pineapple Jam",
+              "Boiled peanuts",
+              "Classic Semiya upma [D] Andhra style",
+              "semiya upma [B]",
+              "Masala Vada (2 no)",
+              "Coconut Chutney"
+            ],
+            "lunch": [
+              "Methi Chapati",
+              "Chilli Bajji",
+              "Carrot beans Poriyal",
+              "Garlic Rasam",
+              "Bottle gourd Sambar",
+              "Avakari Pachadi",
+              "Curd Chilli",
+              "Gongjara Thoviyal"
+            ],
+            "snacks": [
+              "Biscuit Packet [B]",
+              "Fruit Cake-Masala Bhel [D]"
+            ],
+            "dinner": [
+              "Plain Rice",
+              "Phulka",
+              "Masala Egg Bhurji",
+              "Mix Veg Sambar",
+              "Sweet Pongal [B]",
+              "moong dal halwa [D]"
+            ]
+          },
+          "tuesday": {
+            "breakfast": [
+              "Omelette/Chocos",
+              "Mango Jam",
+              "Green Gram Sprouts",
+              "Pamugulu (4 no)(small size)",
+              "Vegetable Rava Upma[B]",
+              "poha [D]",
+              "Coconut chutney"
+            ],
+            "lunch": [
+              "Phulka",
+              "Tomato Rice",
+              "Bhindi Fry",
+              "Tomato Peas Curry",
+              "Lemon Rasam",
+              "Mixed Veg Pickle",
+              "Mint Thoviyal"
+            ],
+            "snacks": [
+              "Veg cutlet - 2 no [B]",
+              "Chili Bajji with sauce [D]"
+            ],
+            "dinner": [
+              "Plain Rice",
+              "Chole Bhature",
+              "Tomato Rasam",
+              "Brinjal Sambar",
+              "Seasonal fruit",
+              "Lemon Pickle",
+              "Ragi drink"
+            ]
+          },
+          "wednesday": {
+            "breakfast": [
+              "Fried Egg/oats",
+              "Mix Fruit jam",
+              "Boiled Black Chana",
+              "Millet Idly [B]",
+              "Kanchipuram Idly [D]",
+              "Vada (2 no)",
+              "Red chili chutney",
+              "Drumstick Sambar"
+            ],
+            "lunch": [
+              "Pudina Chapati",
+              "Gobi 65",
+              "Bottle gourd curry",
+              "Palak Pappu",
+              "Tomato Rasam",
+              "Lemon Pickle",
+              "Ridge Gourd Thoviyal",
+              "Detox water"
+            ],
+            "snacks": [
+              "Masala boiled Chana [B]",
+              "French Fries with tomato sauce [D]"
+            ],
+            "dinner": [
+              "Plain rice",
+              "Plain Chapati",
+              "Andhra Chicken Curry",
+              "Jeera Rice",
+              "Seasonal Fruit",
+              "Semiya Payasam",
+              "Mix Veg Pickle"
+            ]
+          },
+          "thursday": {
+            "breakfast": [
+              "Boiled egg/cornflakes",
+              "Pineapple Jam",
+              "Boiled white channa",
+              "Plant Upma-Pesarattu",
+              "Ginger chutney",
+              "Radish Sambar"
+            ],
+            "lunch": [
+              "Plain Chapati",
+              "Potato poriyal",
+              "Gongjara dal",
+              "Mix Veg Pickle",
+              "Pepper rasam",
+              "Curd Chilli",
+              "Curry Leaf Thoviyal"
+            ],
+            "snacks": [
+              "Veg Puff/ Bread Pakoda [B]",
+              "Dahi vada [D]"
+            ],
+            "dinner": [
+              "Plain Rice",
+              "Roasted Boiled Egg Masala",
+              "Lemon Rasam",
+              "Pineapple Fruit",
+              "Lemon pickle"
+            ]
+          },
+          "friday": {
+            "breakfast": [
+              "Boiled Egg/ Cornflakes",
+              "Pineapple Jam",
+              "Boiled Moong",
+              "Kal dosa[B]",
+              "Vada curry[B] Adul[D]",
+              "Sambar[D]",
+              "Coconut Chutney"
+            ],
+            "lunch": [
+              "Plain Chapati",
+              "Mutter Paneer",
+              "Raw banana fry (Dry)",
+              "Tomato Rasam",
+              "Kara Kuzhambu",
+              "Lemon Pickle",
+              "Gongjara Thoviyal"
+            ],
+            "snacks": [
+              "Sev puri [B]",
+              "Onion pakoda [D]"
+            ],
+            "dinner": [
+              "Plain Rice Kal [B]",
+              "Egg dosa [D]",
+              "Coconut Chutney",
+              "Drumstick Sambar",
+              "Papaya Fruit",
+              "Mix Veg Pickle"
+            ]
+          },
+          "saturday": {
+            "breakfast": [
+              "Boiled Egg/ Chocos",
+              "Mango Jam",
+              "Boiled mixed pulses",
+              "Magg",
+              "Tomato Sauce",
+              "Tamarind pulihora [D] Idiyappam[B]",
+              "Veg Kurma[B]"
+            ],
+            "lunch": [
+              "Phulka",
+              "Mix Cabbage Fry (Dry)",
+              "Keerai Vada",
+              "Tomata Dal",
+              "Pepper Rasam",
+              "Avakari Pachadi",
+              "Mint Thoviyal"
+            ],
+            "snacks": [
+              "Samosa - 1 no [B]",
+              "Dahi chaat [D]"
+            ],
+            "dinner": [
+              "Vangi bath",
+              "Sambar Rice",
+              "Curd Rice",
+              "Horlicks milk",
+              "Potato Chips",
+              "Banana fruit",
+              "Mango pickle"
+            ]
+          },
+          "sunday": {
+            "breakfast": [
+              "Boiled Egg/ Oats",
+              "Mixed Fruit Jam",
+              "White Chana sprouts",
+              "Millet Dosai[B]/jowar dosa[D]",
+              "Groundnut chutney",
+              "Brinjal Sambar"
+            ],
+            "lunch": [
+              "Plain Chapathi",
+              "Hyderabadi Chicken Dum Biryani",
+              "Raita",
+              "Cut Onion Custard Bread [B]",
+              "Mysore Pak [D]"
+            ],
+            "snacks": [
+              "Banana Cake [B]",
+              "Biscuit Packet/Sundal [D]"
+            ],
+            "dinner": [
+              "Plain Rice",
+              "Wheat Dosa",
+              "Onion Chutney",
+              "Mix veg Sambar",
+              "Tomato Rasam",
+              "Mixed fruit salad",
+              "Mix Veg Pickle"
+            ]
+          }
+        },
+        "weekD": {
+          "monday": {
+            "breakfast": [
+              "Boiled Egg/cornflakes",
+              "Pineapple Jam",
+              "Boiled peanuts",
+              "Classic Semiya upma [D]",
+              "Andhra style semiya upma [B]",
+              "Masala Vada (2 no)",
+              "Coconut Chutney"
+            ],
+            "lunch": [
+              "Methi Chapati",
+              "Chilli Bajji",
+              "Carrot beans Poriyal",
+              "garlic Rasam",
+              "Bottle gourd Sambar",
+              "Avakari Pachadi",
+              "Curd Chilli",
+              "Gongjara Thoviyal"
+            ],
+            "snacks": [
+              "Biscuit Packet [B]",
+              "Hot Fruit Cake-Masala Bhel [D]"
+            ],
+            "dinner": [
+              "Plain Rice",
+              "Phulka",
+              "Masala Egg Bhurji",
+              "Mix Veg Sambar",
+              "Sweet Pongal [B]",
+              "moong dal halwa [D]"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "notificationStructure": {
+    "menuType": "south",
+    "dietType": "vegetarian|nonVegetarian",
+    "week": "weekA|weekB|weekC|weekD",
+    "day": "monday|tuesday|wednesday|thursday|friday|saturday|sunday",
+    "sessions": {
+      "breakfast": [],
+      "lunch": [],
+      "snacks": [],
+      "dinner": []
+    },
+    "additionalInfo": {
+      "commonItems": "Brown & White Bread, Butter, Tea, Coffee and Milk, Sugar",
+      "lunchSnackInfo": "Plain Rice, Curd, Salt, Sugar, Papad/ Fryums & Salad (any three of the Cucumber, Tomato, Beetroot, Radish, Carrot), green chilli",
+      "dinnerInfo": "Buttermilk/Lemon Juice, Papad/ Fryums & Salad (any three of the Cucumber, Tomato, Beetroot, Radish, Carrot), cut onion, mirchi, lemon"
+    }
+  },
+  "usage": {
+    "example": {
+      "menuType": "south",
+      "dietType": "vegetarian",
+      "week": "weekA",
+      "day": "monday",
+      "session": "breakfast",
+      "items": [
+        "Boiled Egg/Oats",
+        "Boiled Chawli white [A]",
+        "red [C]",
+        "Mixed Fruit Jam",
+        "Millet Dosa [A]",
+        "Groundnut chutney [A]",
+        "Pulm [C]",
+        "Kadala curry [C]"
+      ]
+    },
+    "notificationFormat": {
+      "title": "Today's Menu - {session}",
+      "message": "Available items: {itemsList}",
+      "additionalInfo": "Don't forget: {commonItems}"
+    }
+  }
+}
