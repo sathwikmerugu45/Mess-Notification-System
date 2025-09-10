@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mess Notification System</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="header-content">
+                <i class="fas fa-utensils header-icon"></i>
+                <h1>Mess Notification System</h1>
+                <p>Get notified 30 minutes before each meal</p>
+            </div>
+        </header>
+
+        <div class="main-content">
+            <div class="info-section">
+                <div class="schedule-card">
+                    <h3><i class="fas fa-clock"></i> Notification Schedule</h3>
+                    <div class="schedule-grid">
+                        <div class="schedule-item">
+                            <i class="fas fa-sun"></i>
+                            <span class="meal">Breakfast</span>
+                            <span class="time">6:30 AM IST</span>
+                        </div>
+                        <div class="schedule-item">
+                            <i class="fas fa-utensils"></i>
+                            <span class="meal">Lunch</span>
+                            <span class="time">11:30 AM IST</span>
+                        </div>
+                        <div class="schedule-item">
+                            <i class="fas fa-cookie"></i>
+                            <span class="meal">Snacks</span>
+                            <span class="time">4:00 PM IST</span>
+                        </div>
+                        <div class="schedule-item">
+                            <i class="fas fa-moon"></i>
+                            <span class="meal">Dinner</span>
+                            <span class="time">6:30 PM IST</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="current-week-card">
+                    <h3><i class="fas fa-calendar-week"></i> Current Week</h3>
+                    <div class="week-info">
+                        <span class="week-letter" id="currentWeek">Loading...</span>
+                        <span class="week-day" id="currentDay">Loading...</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="subscription-section">
+                <div class="form-card">
+                    <h2><i class="fas fa-bell"></i> Subscribe to Notifications</h2>
+                    <p class="form-description">Enter your email and preferences to receive meal notifications</p>
+                    
+                    <form id="subscriptionForm" class="subscription-form">
+                        <div class="form-group">
+                            <label for="email">
+                                <i class="fas fa-envelope"></i>
+                                Email Address
+                            </label>
+                            <input type="email" id="email" name="email" required placeholder="your.email@example.com">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="messType">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Mess Type
+                            </label>
+                            <select id="messType" name="messType" required>
+                                <option value="">Select Mess Type</option>
+                                <option value="south">South</option>
+                                <option value="north">North</option>
+                                <option value="unified">Unified</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="dietType">
+                                <i class="fas fa-leaf"></i>
+                                Diet Type
+                            </label>
+                            <select id="dietType" name="dietType" required>
+                                <option value="">Select Diet Type</option>
+                                <option value="vegetarian">Vegetarian</option>
+                                <option value="nonVegetarian">Non-Vegetarian</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="messCategory">
+                                <i class="fas fa-tags"></i>
+                                Mess Category
+                            </label>
+                            <select id="messCategory" name="messCategory" required>
+                                <option value="">Select Category</option>
+                                <option value="A">Category A</option>
+                                <option value="B">Category B</option>
+                                <option value="C">Category C</option>
+                                <option value="D">Category D</option>
+                            </select>
+                        </div>
+
+                        <button type="submit" class="submit-btn">
+                            <i class="fas fa-paper-plane"></i>
+                            Subscribe to Notifications
+                        </button>
+                    </form>
+
+                    <div id="message" class="message hidden"></div>
+                </div>
+            </div>
+        </div>
+
+        <footer class="footer">
+            <p>&copy; 2025 Mess Notification System. Stay updated with your meal schedule!</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
