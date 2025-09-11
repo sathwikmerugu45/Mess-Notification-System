@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "dev": "node server.js"
+    "dev": "node server.js",
+    "build": "echo 'No specific build step required for this project. Use npm start or npm run dev to run the application.'"
   },
   "keywords": ["mess", "notification", "email", "scheduling"],
   "author": "",
